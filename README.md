@@ -1,1 +1,1 @@
-<img width=500px height=400 src="https://github.com/AkankshaGaonkar/WebDevelopment/blob/main/download.jpg">
+<img width=300px height=200 src="https://github.com/AkankshaGaonkar/MERN_Stack/blob/main/Mern.jpg">
