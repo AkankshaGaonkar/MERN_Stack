@@ -14,8 +14,7 @@ var num1 = Number(req.body.n1);
 var num2 = Number(req.body.n2);
 
 var result = num1 + num2;
-
-    res.send("The answer is"+result);
+    res.send("The answer is "+result);
 });
 
 app.listen(3000,function(){
